@@ -12,7 +12,7 @@ O trabalho de Téo se destaca pela didática clara, acessível e orientada à pr
 
 Seus conteúdos reforçam a importância de aprender SQL de forma aplicada, conectando técnica, análise e resolução de problemas reais.
 
-Canal no YouTube:[oaicite:1]{index=1} — https://www.youtube.com/@teocalvo
+Canal no YouTube: — https://www.youtube.com/@teocalvo
 
 ---
 
