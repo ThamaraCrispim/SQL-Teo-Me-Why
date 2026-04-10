@@ -14,7 +14,6 @@ Seus conteúdos reforçam a importância de aprender SQL de forma aplicada, cone
 
 Canal no YouTube: — https://www.youtube.com/@teocalvo
 
----
 
 ## Objetivo deste Repositório
 
@@ -28,7 +27,6 @@ Este espaço foi criado para:
 
 O repositório funciona como um diário técnico de aprendizado e prática em SQL.
 
----
 
 ## O que será desenvolvido aqui
 
@@ -42,7 +40,6 @@ Ao longo da jornada, este repositório reunirá:
 
 A proposta é transformar o estudo em prática contínua e progressiva.
 
----
 
 ## Propósito de Carreira
 
